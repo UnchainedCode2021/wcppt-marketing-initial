@@ -9,7 +9,6 @@ const Contact = ({ title, subtitle, id }) => {
         <h2>{title}</h2>
         <p>{subtitle}</p>
         <form action="https://formsubmit.co/info@4paincpc.com" method="POST" name="contact" netlify>
-        <input type="hidden" name="_url" value="https://www.chronicpainphysicaltherapy.com/#contact">
           <div className="input-area">
             <input
               type="text"
