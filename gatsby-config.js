@@ -25,6 +25,12 @@ module.exports = {
         path: path.join(__dirname, `src`, `images`),
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        icon: 'src/images/wcppt-icon-32x32.png'
+      }
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
