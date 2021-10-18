@@ -118,7 +118,7 @@ improve your quality of life "
           <Perk
             img={perk9Img}
             alt="cupping with three cups on client back"
-            title="Alternative Manaul Therapies and Modalities"
+            title="Alternative Manual Therapies and Modalities"
             content=""
           />
         </div>
